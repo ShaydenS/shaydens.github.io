@@ -11,7 +11,7 @@ Library: C:\Users\shayd\Documents\GitHub\slot-simulator\Temp\BurstOutput\Data\Pl
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\shayd\Documents\GitHub\slot-simulator\Temp\Burst
 --generate-static-linkage-methods
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.5.0f1/Editor/Data/PlaybackEngines/WebGLSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.5.3f1/Editor/Data/PlaybackEngines/WebGLSupport
 --decode-folder=C:\Users\shayd\Documents\GitHub\slot-simulator\Library\Burst
 --output=C:\Users\shayd\Documents\GitHub\slot-simulator\Temp\BurstOutput\Data\Plugins\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
